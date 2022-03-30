@@ -2,7 +2,7 @@
 
 ## Requirements:
 #### node.js: v16.13.2 or higher 
-#### chrome: 99 version
+#### chrome: 97 version
 
 ## Run tests:
 #### npm install
